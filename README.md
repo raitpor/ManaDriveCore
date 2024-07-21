@@ -1,0 +1,2 @@
+# ManaDriveCore
+Coremod for ManaDrive
